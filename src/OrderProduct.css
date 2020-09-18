@@ -1,0 +1,24 @@
+.orderproduct
+{
+    padding: 40px;
+    margin:20px 0;
+    background-color: white;
+    border: 1px solid lightgray;
+    position: relative;
+    
+}
+.order__id
+{
+    position: absolute;
+    top:60px;
+    right: 45px;
+}
+.order__date
+{
+    padding: 5px;
+}
+.order__price
+{
+    text-align: right;
+    font-weight: 500;
+}

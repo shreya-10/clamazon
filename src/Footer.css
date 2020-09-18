@@ -1,0 +1,22 @@
+.footer
+{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    background-color: #232F3E;
+   
+    color: white;
+}
+.footer__col
+{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column ;
+    align-items: center;
+}
+.footer__col > div
+{
+    margin-top: 10px;
+   
+}
